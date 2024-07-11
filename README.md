@@ -1,10 +1,12 @@
-# Flag of Nepal using python Turtle Graphics
-Python Script to draw flag of Nepal. It uses turtle graphics library provided by python.
-Just run the flag.py. <br>
-Result should look like the screenshot below.
+# Flag of Nepal using Python's Turtle Graphics
 
- ![Screenshot](https://github.com/SATYADAHAL/Flag-of-Nepal/blob/89f6b204d0bff64509f63bc59378e9b1ac18a076/assets/FlagTurtle.png?raw=True)
+## Overview
+This Python script draws the flag of Nepal using the Turtle Graphics library. If you're looking to learn how to create the flag of Nepal programmatically with Python, this repository is for you.
 
-# Usage:
-`python3 flag.py`
-> 
+## Screenshot
+![Screenshot](https://github.com/SATYADAHAL/Flag-of-Nepal/blob/89f6b204d0bff64509f63bc59378e9b1ac18a076/assets/FlagTurtle.png?raw=True)
+
+## Usage
+To run the script and see the flag of Nepal:
+```sh
+python3 flag.py
